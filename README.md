@@ -109,7 +109,7 @@ Assess the likelihood of your crop insurance claim being accepted before applyin
 
 - 🧪 **Python** & **Streamlit** for the frontend
 - 🤖 **Machine Learning Models** (sklearn, XGBoost, CNN)
-- 📷 **Gemini ** for disease detection
+- 📷 **Gemini** for disease detection
 - 🌐 **Multilingual & TTS support** (gTTS, SpeechRecognition)
 - 📡 **IoT Integration** (DHT11, NPK, Rain & Soil Moisture sensors)
 
@@ -119,12 +119,6 @@ Assess the likelihood of your crop insurance claim being accepted before applyin
 
 We welcome contributions!  
 
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
