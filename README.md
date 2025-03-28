@@ -1,7 +1,7 @@
 
 ---
 
-# 🌾 Smart Agriculture Assistant
+# 🌾 AgroTechHub
 
 > **Empowering Farmers with AI, IoT, and Data-Driven Insights**
 
