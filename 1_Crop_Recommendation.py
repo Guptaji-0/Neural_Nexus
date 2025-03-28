@@ -32,7 +32,7 @@ RF.fit(X_train, y_train)
 # ==============================
 # 🚀 Initialize Gemini AI
 # ==============================
-genai.configure(api_key="AIzaSyC43bxonVWRd0v-cDb8dORqqGSm4lGutC8")  # Add your Gemini API Key 
+genai.configure(api_key=" ")  # Add your Gemini API Key 
 
 def ask_gemini(question):
     """Queries Gemini API for crop advice."""
