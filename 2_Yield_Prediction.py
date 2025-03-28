@@ -56,7 +56,7 @@ model.fit(X_train, y_train)
 # ================================
 # 🤖 Gemini API Setup
 # ================================
-genai.configure(api_key="AIzaSyC43bxonVWRd0v-cDb8dORqqGSm4lGutC8")  # Replace with your Gemini API Key 
+genai.configure(api_key=" ")  # Replace with your Gemini API Key 
 
 def get_best_crop_suggestion(N, P, K, temperature, pH, area, rainfall, production, state):
     prompt = f"""
